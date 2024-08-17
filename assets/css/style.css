@@ -3283,12 +3283,12 @@ h5 {
 
 .hover\:bg-colorOrangyRed:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(254 51 10 / var(--tw-bg-opacity));
+  background-color: rgb(2 22 201 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-orange-500:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(249 115 22 / var(--tw-bg-opacity));
+  background-color: rgb(0 23 227 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-slate-200:hover {
